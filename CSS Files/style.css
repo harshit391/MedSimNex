@@ -2,6 +2,16 @@ body{
     scroll-behavior: smooth;
 }
 
+button{
+    background-color: red !important;
+    color: white !important;
+    border: white !important;
+}
+
+a {
+    color: red !important;
+}
+
 .heading{
     display: flex;
     flex-direction: column;
