@@ -30,3 +30,7 @@ body{
 .nav{
     font-size: 2rem;
 }
+
+#address{
+    height: 5rem;
+}
